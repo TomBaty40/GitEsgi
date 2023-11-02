@@ -1,0 +1,5 @@
+----
+
+Cette fonctionnalité apporte tout ce dont le robot a besoin pour faire l'action 'Couper le gingembre' !
+
+----
