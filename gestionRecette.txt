@@ -1,0 +1,5 @@
+----
+
+Ce fichier décrit comment l'ensemble de cette recette est gérée !
+
+----
